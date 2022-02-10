@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# React-Food App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build only for those who wants to contribute and make their make their github stats look appealing.
 
-## Available Scripts
+## Contribute
 
-In the project directory, you can run:
+lots of things needs to be done like other pages and footer and much more.
+by visiting the website you can get much clear idea!
 
 ### `npm start`
 
